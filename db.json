@@ -1,0 +1,40 @@
+{
+  "cuadros": [
+    {
+      "id": "19b0",
+      "titulo": "Estrellas que se apagan",
+      "tecnica": "Espectroscopia",
+      "imagen": "https://cloudfront-us-east-1.images.arcpublishing.com/infobae/GXX4VADT5BG3FDN4CN3GAYQQSU.jpg"
+    },
+    {
+      "id": "e404",
+      "titulo": "Guardería de estrellas",
+      "tecnica": "Se observan estrellas bebés en la Nebulosa Carina",
+      "imagen": "https://cloudfront-us-east-1.images.arcpublishing.com/infobae/64H3JDAFO5AMPECFVZCJ4AJUMY.jpg"
+    },
+    {
+      "id": "8488",
+      "titulo": "Carina Nebula",
+      "tecnica": "Burbujas y chorros creados por estrellas recién nacidas",
+      "imagen": "https://cloudfront-us-east-1.images.arcpublishing.com/infobae/IQFVGCQICJBLTEGOS2GJKN6POM.jpg"
+    },
+    {
+      "id": "ac7d",
+      "titulo": "Cúmulo estelar",
+      "tecnica": "Lejano planeta gaseoso, una “guardería estelar” donde se forman estrellas",
+      "imagen": "https://cloudfront-us-east-1.images.arcpublishing.com/infobae/FW7MFXWRLF7POTNPJBXY62G2OA.jpg"
+    },
+    {
+      "id": "45a6",
+      "titulo": "Danza cósmica",
+      "tecnica": "Quinteto de galaxias distantes unos 300 millones de años luz",
+      "imagen": "https://cloudfront-us-east-1.images.arcpublishing.com/infobae/HBIAGIPOWZHPRDQJ63QSWZUTDU.jpg"
+    },
+    {
+      "id": "761a",
+      "titulo": "Galaxias en interacción Arp 142",
+      "tecnica": "La galaxia espiral distorsionada entre Pingüino, y la galaxia elíptica",
+      "imagen": "https://ciencia.nasa.gov/wp-content/uploads/sites/2/2024/07/1-webb-image-a-1.webp?w=1280&format=webp"
+    }
+  ]
+}
